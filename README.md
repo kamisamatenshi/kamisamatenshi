@@ -1,6 +1,6 @@
 -👋 Hi, I’m @kamisamatenshi                        
 -👀 I’m interested in App & Game Development                        
--🌱 I’m currently learning C# , C++ , PHP and Java                          
+-🌱 I’m currently learning C, C# , C++ , PHP and Java                          
 -💞️ I’m looking to collaborate on any software / game projects                         
 -📫 How to reach me                      
 -Email: tsecm234@gmail.com                        
